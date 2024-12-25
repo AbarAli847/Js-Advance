@@ -18,8 +18,6 @@ function student( ){
     console.log("🚀 ~ student ~ student:", student)
 }
 
-stduent2()
-const stduent2  = ()=> console.log("🚀 ~ stduent2 ~ stduent2:", stduent2)
 
 
   return (
